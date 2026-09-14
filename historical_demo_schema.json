@@ -1,0 +1,17 @@
+{
+  "purpose": "Schema/example only. Values are synthetic_demo.",
+  "endpoint": "/api/v1/history",
+  "fields": [
+    "occupancy",
+    "available_capacity",
+    "food_available",
+    "water_available",
+    "beds_available",
+    "electricity_status",
+    "operational_status",
+    "rainfall_mm",
+    "river_level_m",
+    "warning_level"
+  ],
+  "provenance": "synthetic_demo"
+}

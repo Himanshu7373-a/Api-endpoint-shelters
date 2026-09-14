@@ -1,0 +1,26 @@
+[
+  {
+    "id":"demo-shelter-001","name":"Government Inter College Emergency Shelter","type":"shelter","latitude":30.3167,"longitude":78.0322,"distance_km":0,
+    "address":"Demo location, Uttarakhand","phone":null,"website":null,
+    "image_url":"https://placehold.co/900x600/png?text=DEMO+SHELTER",
+    "capacity":680,"capacity_status":"synthetic_demo","space_m2":2380,"space_status":"synthetic_demo",
+    "food_available":true,"water_available":true,"medical_support":"basic first-aid",
+    "source":"synthetic_demo","source_reliability":"demo_only"
+  },
+  {
+    "id":"demo-shelter-002","name":"Community Hall Emergency Shelter","type":"shelter","latitude":30.3184,"longitude":78.0381,"distance_km":0,
+    "address":"Demo location, Uttarakhand","phone":null,"website":null,
+    "image_url":"https://placehold.co/900x600/png?text=DEMO+COMMUNITY+HALL",
+    "capacity":320,"capacity_status":"synthetic_demo","space_m2":1120,"space_status":"synthetic_demo",
+    "food_available":false,"water_available":true,"medical_support":"none",
+    "source":"synthetic_demo","source_reliability":"demo_only"
+  },
+  {
+    "id":"demo-medical-001","name":"District Hospital (Demo Record)","type":"medical","latitude":30.3250,"longitude":78.0410,"distance_km":0,
+    "address":"Demo location, Uttarakhand","phone":"0000000000","website":null,
+    "image_url":"https://placehold.co/900x600/png?text=DEMO+HOSPITAL",
+    "capacity":null,"capacity_status":"synthetic_demo","space_m2":null,"space_status":null,
+    "food_available":null,"water_available":true,"medical_support":"emergency department",
+    "source":"synthetic_demo","source_reliability":"demo_only"
+  }
+]
